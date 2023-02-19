@@ -1,0 +1,13 @@
+com/takeyourpic/backend/model/User.class
+com/takeyourpic/backend/controller/UserController.class
+com/takeyourpic/backend/service/CustomUserDetailsService.class
+com/takeyourpic/backend/repository/ProductRepository.class
+com/takeyourpic/backend/service/CustomUserDetails.class
+com/takeyourpic/backend/security/BasicAuthSecurityConfig.class
+com/takeyourpic/backend/BackendApplication.class
+com/takeyourpic/backend/service/UserService.class
+com/takeyourpic/backend/service/ProductService.class
+com/takeyourpic/backend/controller/HomeController.class
+com/takeyourpic/backend/model/Product.class
+com/takeyourpic/backend/repository/UserRepository.class
+com/takeyourpic/backend/controller/ProductController.class

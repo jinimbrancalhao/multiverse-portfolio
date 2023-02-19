@@ -1,0 +1,13 @@
+/Users/jinnybrancalhao/multiverse/backend/src/main/java/com/takeyourpic/backend/controller/HomeController.java
+/Users/jinnybrancalhao/multiverse/backend/src/main/java/com/takeyourpic/backend/controller/ProductController.java
+/Users/jinnybrancalhao/multiverse/backend/src/main/java/com/takeyourpic/backend/service/ProductService.java
+/Users/jinnybrancalhao/multiverse/backend/src/main/java/com/takeyourpic/backend/repository/ProductRepository.java
+/Users/jinnybrancalhao/multiverse/backend/src/main/java/com/takeyourpic/backend/service/CustomUserDetailsService.java
+/Users/jinnybrancalhao/multiverse/backend/src/main/java/com/takeyourpic/backend/service/UserService.java
+/Users/jinnybrancalhao/multiverse/backend/src/main/java/com/takeyourpic/backend/controller/UserController.java
+/Users/jinnybrancalhao/multiverse/backend/src/main/java/com/takeyourpic/backend/security/BasicAuthSecurityConfig.java
+/Users/jinnybrancalhao/multiverse/backend/src/main/java/com/takeyourpic/backend/BackendApplication.java
+/Users/jinnybrancalhao/multiverse/backend/src/main/java/com/takeyourpic/backend/repository/UserRepository.java
+/Users/jinnybrancalhao/multiverse/backend/src/main/java/com/takeyourpic/backend/model/Product.java
+/Users/jinnybrancalhao/multiverse/backend/src/main/java/com/takeyourpic/backend/model/User.java
+/Users/jinnybrancalhao/multiverse/backend/src/main/java/com/takeyourpic/backend/service/CustomUserDetails.java
