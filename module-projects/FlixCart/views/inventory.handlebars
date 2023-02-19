@@ -1,0 +1,17 @@
+<section>
+    <div>
+        <h2>North Warehouse</h2>
+        <button>Add new Product</button>
+    </div>
+    <div class="products">
+    {{#each products}}
+        <article class="product">
+            <img src="{{image}}"/>
+            <h2>{{name}}</h2>
+            <h2>{{price}}</h2>
+            <a href="/products/{{id}}">View Product</a>
+        </article>
+        
+    {{/each}}
+    </div>
+</section>

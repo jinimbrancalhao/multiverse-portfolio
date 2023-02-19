@@ -1,0 +1,116 @@
+{
+  "productsdata": [
+    {
+      "name": "Full Size Sofa bed",
+      "price": 267.0,
+      "description": "The bed in the sofa is a full size bed.",
+      "category": "Home",
+      "image": "https://secure.img1-fg.wfcdn.com/im/18555857/resize-h600-w600%5Ecompr-r85/7400/74000377/Sofa+Beds.jpg"
+    },
+    {
+      "name": "AOT Pillow",
+      "price": 20.99,
+      "description": "Attack On Titian Pillow. Comes in sets of two.",
+      "category": "Home",
+      "image": "https://attackontitanstuff.com/wp-content/uploads/2021/04/burning-attack-on-titan-pillow-cover-334244.jpg"
+    },
+    {
+      "name": "LENDA Curtains with tie-backs",
+      "price": 24.99,
+      "description": "LENDA curtain provides privacy while letting light pass through",
+      "category": "Home",
+      "image": "https://www.ikea.com/us/en/images/products/lenda-curtains-with-tie-backs-1-pair-gray__0599200_pe677975_s5.jpg?f=xl"
+    },
+    {
+      "name": "5-piece wooden kitchen table dining set",
+      "price": 240.0,
+      "description": "A stylish and inviting display in your dining area guaranteed to be at the center of attention.",
+      "category": "Home",
+      "image": "https://cdn.shopify.com/s/files/1/0554/4152/2881/products/81oe7OJVj0L._SL1500_800x_66d04afe-eae2-4476-ab78-6c2ab7f15b2f_2000x.jpg?v=1638345037"
+    },
+    {
+      "name": "Thinkpad",
+      "price": 490.0,
+      "description": "13inch Thinkpad laptop with touchScreen. ",
+      "category": "Electronics",
+      "image": "https://www.notebookcheck.net/uploads/tx_nbc2/4zu3_Lenovo_Thinkpad_E490.jpg"
+    },
+    {
+      "name": "Apple iPhone 13",
+      "price": 929.0,
+      "description": "Our most advanced dual‐camera system ever. An even brighter Oled display. A lightning‐fast chip that leaves the competition behind. A huge leap in battery life. SIM-free",
+      "category": "Electronics",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-blue-select-2021?wid=940&hei=1112&fmt=png-alpha&.v=1629842712000"
+    },
+    {
+      "name": "Apple Watch",
+      "price": 750.0,
+      "description": "The larger display enhances the entire experience, making Apple Watch easier to use and read. Series 7 represents Apple's biggest and brightest thinking.",
+      "category": "Electronics",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ML733_VW_34FR+watch-41-stainless-gold-cell-7s_VW_34FR_WF_CO?wid=1400&hei=1400&trim=1,0&fmt=p-jpg&qlt=95&.v=1630042278000,1631661322000"
+    },
+    {
+      "name": "Samsung Smart Front Load Washer",
+      "price": 1124.0,
+      "description": "Washer helps you fit more in every load and cut down on laundry time, leaving more time for you. ",
+      "category": "Electronics",
+      "image": "https://image-us.samsung.com/SamsungUS/home/home-appliances/washers-dryers/wf50a8500av-a5/gallery/WF50A8500AV_01_BrushedBlack_SCOM.jpg?$product-details-jpg$"
+    },
+    {
+      "name": "Nintendo Switch",
+      "price": 479.0,
+      "description": "Enjoy vivid colors and crisp contrast with a screen that makes colors pop",
+      "category": "Entertainment",
+      "image": "https://i5.walmartimages.com/asr/b0637803-4a77-41fb-9d70-261d52b43563.ddd57c37dc3bd6a5342ed6c2ad4c6d66.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+    },
+    {
+      "name": "LEGO Super Mario Super Mario 64 Question Mark Block ",
+      "price": 169.99,
+      "description": "Includes 10 LEGO Super Mario microfigures: Mario, Yoshi, Princess Peach, and King Bob-omb, as well as a Chain Chomp, Big Bully, Mr. I, Lakitu, penguin and baby penguin",
+      "category": "Entertainment",
+      "image": "https://target.scene7.com/is/image/Target/GUEST_ebf7466c-e091-4a82-b14b-e32b6b637155?wid=325&hei=325&qlt=80&fmt=webp"
+    },
+    {
+      "name": "Minecraft - Nintendo Switch",
+      "price": 29.99,
+      "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles",
+      "category": "Entertainment",
+      "image": "https://target.scene7.com/is/image/Target/GUEST_2d29e86c-06b4-487b-8704-08efbc090bdf?wid=325&hei=325&qlt=80&fmt=webp"
+    },
+    {
+      "name": "Spider-Man: No Way Home (DVD + Digital)",
+      "price": 19.99,
+      "description": " Movie Rating: PG-13, Genre: Action/Adventure, Run Time: 148 minutes",
+      "category": "Entertainment",
+      "image": "https://target.scene7.com/is/image/Target/GUEST_6d74620e-ab21-4ed0-9887-f539db5eecef?wid=325&hei=325&qlt=80&fmt=webp"
+    },
+    {
+      "name": "Women's Life Is Good T-Shirt",
+      "price": 19.99,
+      "description": "Our relaxed-fit Crusher Tee, washed for everyday softness and comfort.",
+      "category": "Clothing",
+      "image": "https://m.media-amazon.com/images/I/61xZ-hI9uiL._AC_UX385_.jpg"
+    },
+    {
+      "name": "Women's Disney's Winnie The Pooh Peek-A-Boo Baseball Cap",
+      "price": 12.32,
+      "description": "Complete your summer look with this cute and unique Winnie the Pooh baseball cap.",
+      "category": "Clothing",
+      "image": "https://media.kohlsimg.com/is/image/kohls/5108466?wid=1200&hei=1200&op_sharpen=1"
+    },
+    {
+      "name": "Vans Flame Old Skool",
+      "price": 70.0,
+      "description": "Featuring a timeless flame print, the Flame Old Skool pays homage to our heritage while ensuring that this low top, lace-up shoe remains as iconic as ever. Made with durable suede and canvas uppers, it also includes re-enforced toe caps, supportive padded collars, and signature rubber waffle outsoles.",
+      "category": "Clothing",
+      "image": "https://cdn.shoplightspeed.com/shops/607275/files/25974920/vans-flame-classic-old-skool-shoes.jpg"
+    },
+    {
+      "name": "Raybans Clubmaster Classic",
+      "price": 163.0,
+      "description": "Ray-Ban Clubmaster Classic sunglasses are retro and timeless. Inspired by the 50’s, the unmistakable design of the Clubmaster.",
+      "category": "Clothing",
+      "image": "https://images.ray-ban.com/is/image/RayBan/805289653653__STD__shad__qt.png?impolicy=RB_Product"
+    }
+  ]
+}
