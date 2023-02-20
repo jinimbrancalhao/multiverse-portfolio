@@ -247,13 +247,13 @@ let startGame = () => {
 }
 
 let set1Player = () => {
-  cpu = false
+  cpu = true
   resetGame()
 }
 
 let set2Player = () => {
   resetGame()
-  cpu = true
+  cpu = false
 }
 
 
