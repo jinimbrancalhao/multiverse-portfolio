@@ -2,7 +2,7 @@
 
 ## Overview
 
-Over this past year or so with Multiverse and Commure, I have learned and implemented an array of different technologies. From starting the bootcamp learning vanilla JavaScript, to now having worked on two enterprise applications with Commure, it's been a great year!
+Over this past year or so with Multiverse and Commure, I have learned and implemented an array of different technologies. From starting the bootcamp learning Vanilla JavaScript, to now having worked on two enterprise applications with Commure, it's been a great year!
 
 This repository is a collection of the work and learning that I've done throughout my time here at Multiverse / Commure.
 
