@@ -1,0 +1,22 @@
+<nav>
+    <div>
+        <a href="/homepage"><img src="/images/flixcart_logo.png" class="logo" alt="logo img"/> </a> 
+    </div>
+    <div class="warehousenav">
+        <a href="/warehouse/1" class="btn btn-success">North Branch</a>
+        <a href="/warehouse/2" class="btn btn-success">South Branch</a>
+        <a href="/warehouse/3" class="btn btn-success">East Branch</a>
+        <a href="/warehouse/4" class="btn btn-success">West Branch</a>
+        <a href="/user/signout" class="btn btn-danger">Log Out</a>
+    </div>
+</nav>
+<form action="/user/create-user" method="post">
+  <label for="username">Username</label>
+  <input type="text" id="username" name="username" class="form-control" required>
+  <label for="password">Password</label>
+  <input type="password" id="password" name="password" class="form-control" required>
+  <label for="confirm">Confirm Password</label>
+  <input type="password" id="confirm" name="confirm" class="form-control" required>
+  <button class="btn btn-primary" type="submit">Create User</button>
+</form>
+{{alert}}

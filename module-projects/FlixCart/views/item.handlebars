@@ -1,0 +1,31 @@
+<nav>
+    <div>
+        <a href="/homepage"><img src="/images/flixcart_logo.png" class="logo" alt="logo img"/> </a> 
+    </div>
+    <div class="warehousenav">
+        <a href="/warehouse/1" class="btn btn-success">North Branch</a>
+        <a href="/warehouse/2" class="btn btn-success">South Branch</a>
+        <a href="/warehouse/3" class="btn btn-success">East Branch</a>
+        <a href="/warehouse/4" class="btn btn-success">West Branch</a>
+        <a href="/user/signout" class="btn btn-danger">Log Out</a>
+    </div>
+</nav>
+<section class="itemsection">
+        <article class="viewitem">
+            <div>
+                <h2>{{product.name}}</h2>
+                <img src="{{product.image}}"/>
+                <p>Name: {{product.name}}</p>
+                <p>Price: ${{product.price}}</p>
+                <button class="btn btn-info"> <a href="/product/update/{{product.id}}">Edit</a></button>
+                <button id='deletebtn' class="btn btn-danger">Delete</button> <br><br>
+                <div><a href="/warehouse/{{product.WarehouseId}}">  ← Back to Products List</a></div>
+            </div>
+            <div class="description">
+                <br> <br> <br> <br>
+                <p>Description: {{product.description}}</p>
+            </div>
+            <h1 id="warehouse">{{product.WarehouseId}}</h1>
+        </article>
+</section>   
+<script src="/delete.js"></script>

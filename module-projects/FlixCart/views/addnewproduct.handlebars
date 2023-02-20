@@ -1,0 +1,27 @@
+<nav>
+    <div>
+        <a href="/homepage"><img src="/images/flixcart_logo.png" class="logo" alt="logo img"/> </a> 
+    </div>
+    <div class="warehousenav">
+        <a href="/warehouse/1" class="btn btn-success">North Branch</a>
+        <a href="/warehouse/2" class="btn btn-success">South Branch</a>
+        <a href="/warehouse/3" class="btn btn-success">East Branch</a>
+        <a href="/warehouse/4" class="btn btn-success">West Branch</a>
+        <a href="/user/signout" class="btn btn-danger">Log Out</a>
+    </div>
+</nav>
+<form action="/product" method="post" class="forms">
+    <label for="name">Product's Name:</label>
+    <input type="text" id="name" name="name" class="form-control" required><br><br>
+    <label for="price">Product's Price:</label>
+    <input type="text" id="price" name="price" class="form-control" required><br><br>
+    <label for="description">Product's Description:</label>
+    <input type="text" id="description" name="description" class="form-control" required><br><br>
+    <label for="category">Product's Category:</label>
+    <input type="text" id="category" name="category" class="form-control" required><br><br>
+    <label for="image">Image URL:</label>
+    <input type="text" id="image" name="image" class="form-control" required><br><br>
+    <label for="WarehouseId">Warehouse Id:</label>
+    <input type="text" id="id" name="WarehouseId" class="form-control" required><br><br>
+    <button class="btn btn-primary" type="submit">Add New Product</button>
+</form>

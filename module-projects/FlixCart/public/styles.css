@@ -1,0 +1,171 @@
+body {
+  background-color: #fcfcf6;
+  overflow-x: hidden;
+  font-family: Serif;
+}
+
+.logo {
+  width: 20vw;
+  height: 20vh;
+}
+
+nav {
+  /* position: fixed; */
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 8vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 13%;
+}
+
+.warehousenav {
+  display: flex;
+  justify-content: space-between;
+  width: 45%;
+  padding: 1% 2% 2% 2%;
+}
+
+.welcome {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  line-height: 2;
+  padding: 2% 2% 2% 2%;
+  margin: 3% 2% 0% 2%;
+}
+
+.girl {
+  width: 40vw;
+  height: 60vh;
+  margin-left: 5%;
+  border-radius: 40%;
+}
+#welmessage {
+  width: 30%;
+}
+
+.card {
+  margin: 2%;
+}
+
+.card-body {
+  display: flex;
+  justify-content: space-between;
+}
+
+.products {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.viewproduct {
+  background-color: #6fa2dd;
+  border: 2px solid #7bacc862;
+  border-radius: 5%;
+  padding: 1%;
+}
+
+.title {
+  display: flex;
+  justify-content: space-between;
+}
+
+form {
+  margin-left: 18%;
+  margin-top: 13%;
+  margin-right: 20%;
+  margin-bottom: 10%;
+}
+
+.viewitem img {
+  width: 35vw;
+  height: 55vh;
+}
+
+.viewitem {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 10%;
+}
+
+.description {
+  margin-left: 10%;
+}
+
+#addbutton {
+  height: 1%;
+}
+
+#warehouse {
+  color: #fcfcf6;
+}
+
+@media only screen and (max-width: 600px) {
+  .warehousenav {
+    display: flex;
+    width: 35%;
+    padding: 1% 1% 1% 1%;
+    justify-content: space-around;
+  }
+  .warehousenav a {
+    margin-bottom: 2%;
+    margin-left: 2%;
+  }
+  nav {
+    padding-bottom: 3%;
+  }
+  .mainbody {
+    padding-top: 7%;
+  }
+  .welcome {
+    padding-top: 40%;
+    padding-bottom: 10%;
+  }
+  .girl {
+    width: 50vw;
+    height: 40vh;
+    border-radius: 50%;
+  }
+  .inv {
+    padding-top: 35%;
+    padding-bottom: 10%;
+  }
+  .products {
+    justify-content: space-around;
+  }
+  .card {
+    margin: 7% 7% 7% 7%;
+    width: 40vw;
+  }
+  .card img {
+    width: 30vw;
+  }
+  .card div {
+    width: 30vw;
+    background-color: white;
+  }
+  .itemsection {
+    padding-top: 35%;
+    padding-bottom: 10%;
+  }
+  .forms {
+    padding-top: 35%;
+    padding-bottom: 10%;
+  }
+  .logo {
+    width: 40vw;
+    height: 20vh;
+  }
+}
